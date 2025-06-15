@@ -220,7 +220,7 @@ ol {
 }
 
 .content__list-container {
-  overflow-y: scroll;
+  overflow-y: auto;
   max-height: 300px;
   position: relative;
   height: 100%;
